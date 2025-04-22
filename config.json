@@ -1,0 +1,9 @@
+{
+  "mobile_emulation": {
+    "deviceName": "Pixel 4"
+  },
+  "folders": {
+    "screenshots": "screenshots",
+    "reports": "reports"
+  }
+}
