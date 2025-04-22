@@ -12,6 +12,6 @@ class TIMEOUTS:
     Timeout settings used for WebDriver waits.
     """
     DEFAULT = 20
-    SHORT = 5
+    SHORT = 1
     MEDIUM = 15
     LONG = 30

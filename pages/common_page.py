@@ -1,9 +1,7 @@
 # Import the necessary modules and classes
 from pages.base_page import BasePage  # Import the BasePage class from the correct location
-from selenium.webdriver.common.by import By  # Locator strategy class for Selenium
 from selenium.webdriver.common.keys import Keys  # Keys class for keyboard actions
-from selenium.webdriver.support.ui import WebDriverWait  # Explicit wait for elements
-from selenium.webdriver.support import expected_conditions as EC  # Conditions for waiting
+from selenium.webdriver.common.action_chains import ActionChains  # Action chains for complex user interactions
 
 class CommonPage(BasePage):
     def __init__(self, driver):
@@ -29,11 +27,12 @@ class CommonPage(BasePage):
         """
         self.take_screenshot(screenshot_name)
 
-    
+    def close_modal_popup(self):
         """
-        Check if the video player is visible on the page.
-
-        Returns True if the player is visible, otherwise False.
+        Uses BasePage's modal detection. If modal found, dismiss it via ESC.
         """
-        element = (By.CSS_SELECTOR, 'button[data-a-target="player-fullscreen-button"]')  # Locator for player button
-        return self.is_element_displayed(element)  # Return True if the element is displayed
+        if self.is_modal_present():
+            print("Modal detected. Sending ESC to dismiss it.")
+            ActionChains(self.driver).send_keys(Keys.ESCAPE).perform()
+        else:
+            print("No modal detected. Continuing.")

@@ -39,3 +39,491 @@
 2025-04-22 16:25:51,897 - INFO - All files have been deleted from reports.
 2025-04-22 16:25:53,304 - INFO - Driver initialized with mobile emulation for Pixel 4
 2025-04-22 16:26:04,922 - INFO - Driver has been closed.
+2025-04-22 18:26:56,334 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 18:26:56,334 - INFO - Deleted file: screenshots\twitch_player_20250422_162602.png
+2025-04-22 18:26:56,334 - INFO - All files have been deleted from screenshots.
+2025-04-22 18:26:56,334 - INFO - Deleted file: reports\report.html
+2025-04-22 18:26:56,334 - INFO - All files have been deleted from reports.
+2025-04-22 18:26:59,927 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 18:27:11,035 - INFO - Driver has been closed.
+2025-04-22 18:50:52,724 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 18:50:52,724 - INFO - Deleted file: screenshots\twitch_player_20250422_182708.png
+2025-04-22 18:50:52,724 - INFO - All files have been deleted from screenshots.
+2025-04-22 18:50:52,724 - INFO - Deleted file: reports\report.html
+2025-04-22 18:50:52,724 - INFO - All files have been deleted from reports.
+2025-04-22 18:50:54,335 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 18:51:13,500 - INFO - Driver has been closed.
+2025-04-22 18:51:31,881 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 18:51:31,881 - INFO - Deleted file: screenshots\twitch_player_20250422_185110.png
+2025-04-22 18:51:31,881 - INFO - All files have been deleted from screenshots.
+2025-04-22 18:51:31,881 - INFO - Deleted file: reports\report.html
+2025-04-22 18:51:31,881 - INFO - All files have been deleted from reports.
+2025-04-22 18:51:33,239 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 18:51:48,480 - INFO - Driver has been closed.
+2025-04-22 18:52:39,837 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 18:52:39,837 - INFO - Deleted file: screenshots\twitch_player_20250422_185145.png
+2025-04-22 18:52:39,837 - INFO - All files have been deleted from screenshots.
+2025-04-22 18:52:39,837 - INFO - Deleted file: reports\report.html
+2025-04-22 18:52:39,837 - INFO - All files have been deleted from reports.
+2025-04-22 18:52:41,215 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 18:52:55,873 - INFO - Driver has been closed.
+2025-04-22 18:53:45,518 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 18:53:45,518 - INFO - Deleted file: screenshots\twitch_player_20250422_185253.png
+2025-04-22 18:53:45,518 - INFO - All files have been deleted from screenshots.
+2025-04-22 18:53:45,518 - INFO - Deleted file: reports\report.html
+2025-04-22 18:53:45,518 - INFO - All files have been deleted from reports.
+2025-04-22 18:53:46,984 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 18:54:01,500 - INFO - Driver has been closed.
+2025-04-22 19:03:43,217 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:06:54,626 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:06:54,626 - INFO - Deleted file: screenshots\twitch_player_20250422_185357.png
+2025-04-22 19:06:54,626 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:06:54,626 - INFO - Deleted file: reports\report.html
+2025-04-22 19:06:54,626 - INFO - All files have been deleted from reports.
+2025-04-22 19:08:49,913 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:08:49,913 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:08:49,913 - INFO - Deleted file: reports\report.html
+2025-04-22 19:08:49,913 - INFO - All files have been deleted from reports.
+2025-04-22 19:08:51,387 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 19:09:18,455 - INFO - Driver has been closed.
+2025-04-22 19:09:52,844 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:09:52,844 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:09:52,844 - INFO - Deleted file: reports\report.html
+2025-04-22 19:09:52,844 - INFO - All files have been deleted from reports.
+2025-04-22 19:09:54,311 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 19:10:08,261 - INFO - Driver has been closed.
+2025-04-22 19:17:49,945 - INFO - Loaded config - Device: Pixel 4, Device Metrics: {'width': 375, 'height': 667, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:19:09,526 - INFO - Loaded config - Device: Pixel 4, Device Metrics: {'width': 375, 'height': 667, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:28:45,652 - INFO - Loaded config - Device: Pixel 4, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:28:45,652 - INFO - Deleted file: screenshots\twitch_player_20250422_191005.png
+2025-04-22 19:28:45,652 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:28:45,652 - INFO - Deleted file: reports\report.html
+2025-04-22 19:28:45,652 - INFO - All files have been deleted from reports.
+2025-04-22 19:28:49,276 - INFO - Driver initialized with mobile emulation for Pixel 4
+2025-04-22 19:29:08,630 - INFO - Driver has been closed.
+2025-04-22 19:33:46,861 - INFO - Loaded config - Device: iPhone X, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:33:46,861 - INFO - Deleted file: screenshots\twitch_player_20250422_192903.png
+2025-04-22 19:33:46,861 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:33:46,861 - INFO - Deleted file: reports\report.html
+2025-04-22 19:33:46,861 - INFO - All files have been deleted from reports.
+2025-04-22 19:33:48,370 - INFO - Driver initialized with mobile emulation for iPhone X
+2025-04-22 19:34:03,516 - INFO - Driver has been closed.
+2025-04-22 19:38:41,046 - INFO - Loaded config - Device: iPhone X, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:38:41,046 - INFO - Deleted file: screenshots\twitch_player_20250422_193400.png
+2025-04-22 19:38:41,046 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:38:41,046 - INFO - Deleted file: reports\report.html
+2025-04-22 19:38:41,046 - INFO - All files have been deleted from reports.
+2025-04-22 19:38:42,446 - INFO - Driver initialized with mobile emulation for iPhone X
+2025-04-22 19:38:57,820 - INFO - Driver has been closed.
+2025-04-22 19:40:30,657 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:41:02,367 - INFO - Loaded config - Device: iPhone X, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:42:31,475 - INFO - Loaded config - Device: iPhone X, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:42:31,476 - INFO - Deleted file: screenshots\twitch_player_20250422_193855.png
+2025-04-22 19:42:31,476 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:42:31,477 - INFO - Deleted file: reports\report.html
+2025-04-22 19:42:31,477 - INFO - All files have been deleted from reports.
+2025-04-22 19:42:32,853 - INFO - Driver initialized with mobile emulation for iPhone X
+2025-04-22 19:42:46,846 - INFO - Driver has been closed.
+2025-04-22 19:43:48,198 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:43:48,199 - INFO - Deleted file: screenshots\twitch_player_20250422_194244.png
+2025-04-22 19:43:48,199 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:43:48,200 - INFO - Deleted file: reports\report.html
+2025-04-22 19:43:48,200 - INFO - All files have been deleted from reports.
+2025-04-22 19:43:49,608 - INFO - Driver initialized with mobile emulation for iPhone X
+2025-04-22 19:44:03,932 - INFO - Driver has been closed.
+2025-04-22 19:52:30,805 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:52:30,805 - INFO - Deleted file: screenshots\twitch_player_20250422_194401.png
+2025-04-22 19:52:30,805 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:52:30,805 - INFO - Deleted file: reports\report.html
+2025-04-22 19:52:30,805 - INFO - All files have been deleted from reports.
+2025-04-22 19:52:30,805 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 19:53:23,813 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:53:23,813 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:53:23,813 - INFO - Deleted file: reports\report.html
+2025-04-22 19:53:23,813 - INFO - All files have been deleted from reports.
+2025-04-22 19:53:23,813 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 19:53:25,198 - INFO - Driver initialized with mobile emulation
+2025-04-22 19:53:38,820 - INFO - Driver has been closed.
+2025-04-22 19:55:43,345 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:55:43,345 - INFO - Deleted file: screenshots\twitch_player_20250422_195336.png
+2025-04-22 19:55:43,345 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:55:43,345 - INFO - Deleted file: reports\report.html
+2025-04-22 19:55:43,345 - INFO - All files have been deleted from reports.
+2025-04-22 19:55:43,345 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 19:57:13,669 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:57:13,669 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:57:13,669 - INFO - Deleted file: reports\report.html
+2025-04-22 19:57:13,669 - INFO - All files have been deleted from reports.
+2025-04-22 19:57:13,669 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 19:57:15,121 - INFO - Driver initialized with mobile emulation
+2025-04-22 19:57:27,724 - INFO - Driver has been closed.
+2025-04-22 19:58:20,314 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 19:58:20,314 - INFO - Deleted file: screenshots\twitch_player_20250422_195725.png
+2025-04-22 19:58:20,314 - INFO - All files have been deleted from screenshots.
+2025-04-22 19:58:20,314 - INFO - Deleted file: reports\report.html
+2025-04-22 19:58:20,314 - INFO - All files have been deleted from reports.
+2025-04-22 19:58:20,314 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 19:58:21,702 - INFO - Driver initialized with mobile emulation {'deviceMetrics': {'width': 375, 'height': 812, 'pixelRatio': 3.0}, 'userAgent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1'}
+2025-04-22 19:58:36,819 - INFO - Driver has been closed.
+2025-04-22 20:00:19,050 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:00:19,050 - INFO - Deleted file: screenshots\twitch_player_20250422_195832.png
+2025-04-22 20:00:19,050 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:00:19,050 - INFO - Deleted file: reports\report.html
+2025-04-22 20:00:19,050 - INFO - All files have been deleted from reports.
+2025-04-22 20:00:19,050 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:00:20,433 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:00:35,270 - INFO - Driver has been closed.
+2025-04-22 20:01:31,823 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 320, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:01:31,823 - INFO - Deleted file: screenshots\twitch_player_20250422_200030.png
+2025-04-22 20:01:31,823 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:01:31,823 - INFO - Deleted file: reports\report.html
+2025-04-22 20:01:31,823 - INFO - All files have been deleted from reports.
+2025-04-22 20:01:31,823 - INFO - Using device metrics: {'width': 320, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:01:33,182 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 320,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:01:50,378 - INFO - Driver has been closed.
+2025-04-22 20:03:10,541 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:03:10,541 - INFO - Deleted file: screenshots\twitch_player_20250422_200146.png
+2025-04-22 20:03:10,541 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:03:10,541 - INFO - Deleted file: reports\report.html
+2025-04-22 20:03:10,541 - INFO - All files have been deleted from reports.
+2025-04-22 20:03:10,541 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:03:12,323 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:03:25,655 - INFO - Driver has been closed.
+2025-04-22 20:04:44,361 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 2436, 'height': 1125, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:04:44,361 - INFO - Deleted file: screenshots\twitch_player_20250422_200322.png
+2025-04-22 20:04:44,361 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:04:44,361 - INFO - Deleted file: reports\report.html
+2025-04-22 20:04:44,361 - INFO - All files have been deleted from reports.
+2025-04-22 20:04:44,361 - INFO - Using device metrics: {'width': 2436, 'height': 1125, 'pixelRatio': 3.0}
+2025-04-22 20:04:46,178 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 2436,
+    "height": 1125,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:06:10,870 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:06:10,870 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:06:10,870 - INFO - Deleted file: reports\report.html
+2025-04-22 20:06:10,870 - INFO - All files have been deleted from reports.
+2025-04-22 20:06:10,870 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:06:12,673 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:06:25,729 - INFO - Driver has been closed.
+2025-04-22 20:08:18,266 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:08:18,266 - INFO - Deleted file: screenshots\twitch_player_20250422_200623.png
+2025-04-22 20:08:18,266 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:08:18,266 - INFO - Deleted file: reports\report.html
+2025-04-22 20:08:18,266 - INFO - All files have been deleted from reports.
+2025-04-22 20:08:18,266 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:08:20,166 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:08:35,318 - INFO - Driver has been closed.
+2025-04-22 20:09:20,331 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:09:20,331 - INFO - Deleted file: screenshots\twitch_player_20250422_200831.png
+2025-04-22 20:09:20,331 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:09:20,331 - INFO - Deleted file: reports\report.html
+2025-04-22 20:09:20,331 - INFO - All files have been deleted from reports.
+2025-04-22 20:09:20,331 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:09:22,071 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:09:36,266 - INFO - Driver has been closed.
+2025-04-22 20:10:31,437 - ERROR - Error loading config: [Errno 2] No such file or directory: 'config.json'
+2025-04-22 20:10:31,437 - INFO - Deleted file: screenshots\twitch_player_20250422_200933.png
+2025-04-22 20:10:31,437 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:10:31,437 - INFO - Deleted file: reports\report.html
+2025-04-22 20:10:31,437 - INFO - All files have been deleted from reports.
+2025-04-22 20:10:31,437 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:10:33,200 - INFO - Driver initialized with mobile emulation for device Pixel 4: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:10:46,359 - INFO - Driver has been closed.
+2025-04-22 20:11:42,629 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:11:42,629 - INFO - Deleted file: screenshots\twitch_player_20250422_201043.png
+2025-04-22 20:11:42,629 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:11:42,629 - INFO - Deleted file: reports\report.html
+2025-04-22 20:11:42,629 - INFO - All files have been deleted from reports.
+2025-04-22 20:11:42,644 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:11:44,358 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:11:59,251 - INFO - Driver has been closed.
+2025-04-22 20:18:28,607 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:18:28,607 - INFO - Deleted file: screenshots\twitch_player_20250422_201155.png
+2025-04-22 20:18:28,607 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:18:28,607 - INFO - Deleted file: reports\report.html
+2025-04-22 20:18:28,607 - INFO - All files have been deleted from reports.
+2025-04-22 20:18:28,607 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:18:30,290 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:18:45,559 - INFO - Driver has been closed.
+2025-04-22 20:18:59,963 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:18:59,963 - INFO - Deleted file: screenshots\twitch_player_20250422_201841.png
+2025-04-22 20:18:59,963 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:18:59,963 - INFO - Deleted file: reports\report.html
+2025-04-22 20:18:59,963 - INFO - All files have been deleted from reports.
+2025-04-22 20:18:59,963 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:19:01,797 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:19:14,930 - INFO - Driver has been closed.
+2025-04-22 20:19:18,913 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:19:18,913 - INFO - Deleted file: screenshots\twitch_player_20250422_201912.png
+2025-04-22 20:19:18,913 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:19:18,913 - INFO - Deleted file: reports\report.html
+2025-04-22 20:19:18,913 - INFO - All files have been deleted from reports.
+2025-04-22 20:19:18,913 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:19:20,661 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:19:35,575 - INFO - Driver has been closed.
+2025-04-22 20:26:44,883 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:26:44,884 - INFO - Deleted file: screenshots\twitch_player_20250422_201932.png
+2025-04-22 20:26:44,884 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:26:44,885 - INFO - Deleted file: reports\report.html
+2025-04-22 20:26:44,885 - INFO - All files have been deleted from reports.
+2025-04-22 20:26:44,886 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:26:46,620 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:27:11,177 - INFO - Driver has been closed.
+2025-04-22 20:29:16,314 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:29:16,314 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:29:16,314 - INFO - Deleted file: reports\report.html
+2025-04-22 20:29:16,322 - INFO - All files have been deleted from reports.
+2025-04-22 20:29:16,322 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:29:20,780 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:29:33,533 - INFO - Driver has been closed.
+2025-04-22 20:34:27,805 - INFO - Loaded config - Device: Pixel 4, Device Metrics: {'width': 393, 'height': 830, 'pixelRatio': 2.75}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:34:27,821 - INFO - Deleted file: screenshots\twitch_player_20250422_202930.png
+2025-04-22 20:34:27,821 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:34:27,821 - INFO - Deleted file: reports\report.html
+2025-04-22 20:34:27,821 - INFO - All files have been deleted from reports.
+2025-04-22 20:34:27,821 - INFO - Using device metrics: {'width': 393, 'height': 830, 'pixelRatio': 2.75}
+2025-04-22 20:34:29,557 - INFO - Driver initialized with mobile emulation for device Pixel 4: {
+  "deviceMetrics": {
+    "width": 393,
+    "height": 830,
+    "pixelRatio": 2.75
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:34:44,823 - INFO - Driver has been closed.
+2025-04-22 20:43:56,637 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:43:56,637 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:43:56,637 - INFO - Deleted file: screenshots\twitch_player_20250422_203440.png
+2025-04-22 20:43:56,637 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:43:56,637 - INFO - Deleted file: reports\report.html
+2025-04-22 20:43:56,637 - INFO - All files have been deleted from reports.
+2025-04-22 20:43:56,637 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:43:58,416 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:44:12,463 - INFO - Driver has been closed.
+2025-04-22 20:46:14,164 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:46:14,164 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:46:14,164 - INFO - Deleted file: screenshots\twitch_player_20250422_204409.png
+2025-04-22 20:46:14,164 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:46:14,164 - INFO - Deleted file: reports\report.html
+2025-04-22 20:46:14,164 - INFO - All files have been deleted from reports.
+2025-04-22 20:46:14,164 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:46:15,964 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:46:31,085 - INFO - Driver has been closed.
+2025-04-22 20:48:08,278 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:48:08,278 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:48:08,294 - INFO - Deleted file: screenshots\twitch_player_20250422_204628.png
+2025-04-22 20:48:08,294 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:48:08,294 - INFO - Deleted file: reports\report.html
+2025-04-22 20:48:08,294 - INFO - All files have been deleted from reports.
+2025-04-22 20:48:08,294 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:48:10,054 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:48:24,573 - INFO - Driver has been closed.
+2025-04-22 20:50:00,673 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:50:00,674 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:50:00,675 - INFO - Deleted file: screenshots\twitch_player_20250422_204822.png
+2025-04-22 20:50:00,675 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:50:00,676 - INFO - Deleted file: reports\report.html
+2025-04-22 20:50:00,676 - INFO - All files have been deleted from reports.
+2025-04-22 20:50:00,676 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:50:02,737 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:50:20,215 - INFO - Driver has been closed.
+2025-04-22 20:50:59,032 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:50:59,032 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:50:59,032 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:50:59,032 - INFO - Deleted file: reports\report.html
+2025-04-22 20:50:59,032 - INFO - All files have been deleted from reports.
+2025-04-22 20:50:59,032 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:51:00,759 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:51:14,896 - INFO - Driver has been closed.
+2025-04-22 20:52:03,228 - WARNING - Device 'config.json' not found in config. Falling back to 'Pixel 4'.
+2025-04-22 20:52:03,228 - INFO - Loaded config - Device: config.json, Device Metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:52:03,228 - INFO - Deleted file: screenshots\twitch_player_20250422_205112.png
+2025-04-22 20:52:03,228 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:52:03,228 - INFO - Deleted file: reports\report.html
+2025-04-22 20:52:03,228 - INFO - All files have been deleted from reports.
+2025-04-22 20:52:03,228 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:52:04,911 - INFO - Driver initialized with mobile emulation for device config.json: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:52:18,512 - INFO - Driver has been closed.
+2025-04-22 20:58:30,668 - INFO - Loaded config - Device: Pixel 4, Device Metrics: {'width': 393, 'height': 830, 'pixelRatio': 2.75}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:58:30,668 - INFO - Deleted file: screenshots\twitch_player_20250422_205215.png
+2025-04-22 20:58:30,668 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:58:30,684 - INFO - Deleted file: reports\report.html
+2025-04-22 20:58:30,684 - INFO - All files have been deleted from reports.
+2025-04-22 20:58:30,684 - INFO - Using device metrics: {'width': 393, 'height': 830, 'pixelRatio': 2.75}
+2025-04-22 20:58:32,465 - INFO - Driver initialized with mobile emulation for device Pixel 4: {
+  "deviceMetrics": {
+    "width": 393,
+    "height": 830,
+    "pixelRatio": 2.75
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:58:47,035 - INFO - Driver has been closed.
+2025-04-22 20:59:13,299 - INFO - Loaded config - Device: iPhone X, Device Metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}, Screenshots folder: screenshots, Screenshots folder: screenshots, Reports folder: reports
+2025-04-22 20:59:13,300 - INFO - Deleted file: screenshots\twitch_player_20250422_205844.png
+2025-04-22 20:59:13,300 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:59:13,300 - INFO - Deleted file: reports\report.html
+2025-04-22 20:59:13,300 - INFO - All files have been deleted from reports.
+2025-04-22 20:59:13,300 - INFO - Using device metrics: {'width': 375, 'height': 812, 'pixelRatio': 3.0}
+2025-04-22 20:59:15,059 - INFO - Driver initialized with mobile emulation for device iPhone X: {
+  "deviceMetrics": {
+    "width": 375,
+    "height": 812,
+    "pixelRatio": 3.0
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:59:29,433 - INFO - Driver has been closed.
+2025-04-22 20:59:36,446 - ERROR - Error loading config: [Errno 2] No such file or directory: 'config.json'
+2025-04-22 20:59:36,446 - INFO - Deleted file: screenshots\twitch_player_20250422_205926.png
+2025-04-22 20:59:36,446 - INFO - All files have been deleted from screenshots.
+2025-04-22 20:59:36,446 - INFO - Deleted file: reports\report.html
+2025-04-22 20:59:36,446 - INFO - All files have been deleted from reports.
+2025-04-22 20:59:36,446 - INFO - Using device metrics: {'width': 411, 'height': 731, 'pixelRatio': 2.625}
+2025-04-22 20:59:38,158 - INFO - Driver initialized with mobile emulation for device Pixel 4: {
+  "deviceMetrics": {
+    "width": 411,
+    "height": 731,
+    "pixelRatio": 2.625
+  },
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1"
+}
+2025-04-22 20:59:51,712 - INFO - Driver has been closed.

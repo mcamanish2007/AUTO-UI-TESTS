@@ -42,6 +42,9 @@ def test_twitch_search_player(driver: WebDriver, home_page, common_page):
 
     # Enter the search text 'StarCraft II'
     home_page.enter_search_text(CONSTANTS.TWITCH_SEARCH_STARCRAFT_II)
+    
+    # Close any modal popup if present
+    common_page.close_modal_popup() 
 
     # Scroll down twice to load more results
     for _ in range(2):  # Loop to scroll twice

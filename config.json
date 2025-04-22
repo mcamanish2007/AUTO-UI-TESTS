@@ -1,6 +1,11 @@
 {
   "mobile_emulation": {
-    "deviceName": "Pixel 4"
+    "deviceName": "iPhone X",
+    "deviceMetrics": {
+      "width": 375,
+      "height": 812,
+      "pixelRatio": 3.0
+    }
   },
   "folders": {
     "screenshots": "screenshots",

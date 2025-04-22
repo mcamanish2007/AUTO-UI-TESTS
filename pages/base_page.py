@@ -7,6 +7,7 @@ import os  # OS module for file and directory handling
 from datetime import datetime  # Date and time utilities
 from lib.constants import TIMEOUTS  # Importing TIMEOUTS from constants
 
+
 class BasePage:
     def __init__(self, driver):
         """
@@ -107,9 +108,6 @@ class BasePage:
         elements = self.driver.find_elements(by, value)
 
         print(f"[INFO] Found {len(elements)} elements using locator ({by}, '{value}')")
-        for index, el in enumerate(elements):
-            print(f"  [{index}] tag: {el.tag_name}, alt: {el.get_attribute('alt')}, src: {el.get_attribute('src')}")
-
         return elements
 
     def take_screenshot(self, screenshot_name="screenshot"):
@@ -145,3 +143,19 @@ class BasePage:
             return True
         except TimeoutException:
             return False  # Return False if the element is not visible within the timeout
+            
+    def is_modal_present(self):
+        """
+        Heuristically checks for common modal structures on the page.
+        """
+        possible_modal_selectors = [
+            (By.CSS_SELECTOR, '[aria-modal="true"]'),
+            (By.CSS_SELECTOR, '[role="dialog"]'),
+            (By.CLASS_NAME, 'modal'),
+            (By.CLASS_NAME, 'popup'),
+        ]
+
+        for selector in possible_modal_selectors:
+            if self.is_element_displayed(selector, TIMEOUTS.SHORT): 
+                return True
+        return False

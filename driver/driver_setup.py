@@ -16,18 +16,24 @@ class Driver:
                 config = json.load(config_file)
             
             # Get the deviceName from the config, fall back to "Pixel 4" if not found
+            mobile_emulation = config.get("mobile_emulation", {})
             device_name = config.get("mobile_emulation", {}).get("deviceName", "Pixel 4")
-            
+            device_metrics = mobile_emulation.get("deviceMetrics", {
+            "width": 393,
+            "height": 830,
+            "pixelRatio": 2.75
+         })
             # Get folder paths from config file
-            screenshot_dir = config.get("folders", {}).get("screenshots", "screenshots")
-            reports_dir = config.get("folders", {}).get("reports", "reports")
+            folders = config.get("folders", {})
+            screenshot_dir = folders.get("screenshots", "screenshots")
+            reports_dir = folders.get("reports", "reports")
             
-            logger.info(f"Loaded config - Device: {device_name}, Screenshots folder: {screenshot_dir}, Reports folder: {reports_dir}")
-            
-            return device_name, screenshot_dir, reports_dir
-        except Exception as e:
+            logger.info(f"Loaded config - Device: {device_name}, Device Metrics: {device_metrics}, Screenshots folder: {screenshot_dir}, Screenshots folder: {screenshot_dir}, Reports folder: {reports_dir}")
+            return device_name, device_metrics, screenshot_dir, reports_dir
+        
+        except (FileNotFoundError, json.JSONDecodeError) as e:
             logger.error(f"Error loading config: {e}")
-            return "Pixel 4", "screenshots", "reports"  # Fallback to default values if there's an error
+            return "Pixel 4", {"width": 411, "height": 731, "pixelRatio": 2.625}, "screenshots", "reports"
         
     @staticmethod
     def clear_folder(folder_path):
@@ -60,33 +66,44 @@ class Driver:
             WebDriver: A Selenium WebDriver instance for the specified setup.
         """
         # Load device name and folder paths from config
-        device_name, screenshot_dir, reports_dir = Driver.load_config(config_path)
+        device_name, device_metrics, screenshot_dir, reports_dir = Driver.load_config(config_path)
         
         # Clear the folder contents before starting the driver
         Driver.clear_folder(screenshot_dir)
         Driver.clear_folder(reports_dir)
         
+        # Initialize ChromeOptions instance
+        chrome_options = webdriver.ChromeOptions()
+        
         if mobile:
-            # Define the mobile emulation for a specific device
-            mobile_emulation = {"deviceName": device_name}
-            
-            # Create ChromeOptions instance
-            chrome_options = webdriver.ChromeOptions()
+              # Choose mobile emulation mode
+            if device_metrics:
+                # Use deviceMetrics and custom user agent (if desired)
+                mobile_emulation = {
+                    "deviceMetrics": device_metrics,
+                    "userAgent":    "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) "
+                                    "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 "
+                                    "Mobile/15E148 Safari/604.1"
+                }
+                logger.info(f"Using device metrics: {device_metrics}")
+            else:
+                # Fallback to device name
+                mobile_emulation = {"deviceName": device_name}
+                logger.info(f"Using device name: {device_name}")
 
-            # Add mobile emulation configuration
             chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
-
-            # Initialize the Chrome WebDriver with mobile emulation
             driver = webdriver.Chrome(options=chrome_options)
-            logger.info(f"Driver initialized with mobile emulation for {device_name}")
+            # Resize the window based on device metrics (to avoid extra white space)
+            driver.set_window_size(device_metrics["width"], device_metrics["height"])
+            logger.info("Driver initialized with mobile emulation for device {}: {}".format(device_name, json.dumps(mobile_emulation, indent=2)))
         else:
             # Initialize the Chrome WebDriver without mobile emulation
             chrome_options = webdriver.ChromeOptions()
             driver = webdriver.Chrome(options=chrome_options)
             driver.maximize_window()  # Maximize the window for better visibility
-            logger.info("Driver initialized without mobile emulation")
+            logger.info("Driver initialized with chrome browser.")
 
-        return driver
+        return driver # Returns the WebDriver instance
 
     @staticmethod
     def close_driver(driver):
